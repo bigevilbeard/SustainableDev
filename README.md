@@ -2,6 +2,10 @@
 
 **SustainableDev AI** is an innovative tool that empowers developers to make greener choices by recommending the most energy-efficient programming language for their projects. This AI bot leverages the power of AWS and big data processing to analyze vast amounts of information and guide developers towards sustainable coding practices.
 
+
+https://github.com/bigevilbeard/SustainableDev/assets/25031708/643d0405-6610-4ae9-80ae-54c4e232fc02
+
+
 ## Concept
 
 SustainableDev AI tackles the challenge of minimizing the environmental footprint of software development. It achieves this by:
